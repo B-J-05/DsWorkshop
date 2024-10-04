@@ -33,7 +33,7 @@ int main(int argc, char* argv[]) {
 
     std::list<int>::reverse_iterator it = intList.rbegin();
     while (it != intList.rend()) {
-        std::cout << (*it)*(*it) << std::endl;
+        std::cout << (3)*(*it) << std::endl;
         it++;
     }
 
