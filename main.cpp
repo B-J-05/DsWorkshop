@@ -21,6 +21,6 @@ int main(int argc, char* argv[]) {
     exit(1);
   }*/
   
-  std::cout << "hello!" << std::endl;
+  std::cout << "Gluten Tag!" << std::endl;
   
 }
